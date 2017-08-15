@@ -2,10 +2,10 @@
 
 Activates BT Serial on PI 3 and Pi Zero W
 
-##Source
+## Source
 https://hacks.mozilla.org/2017/02/headless-raspberry-pi-configuration-over-bluetooth/
 
-##Usage
+## Usage
 
 CLI control of Bluetooth
 
